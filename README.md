@@ -19,7 +19,7 @@ _Let Copilot coding agent tackle your issues directly on GitHub. No coding envir
 
   - GitHub Copilot subscription (Pro or higher) is required to use Copilot coding agent.  
   - Skills exercise: [Introduction to GitHub](https://github.com/skills/introduction-to-github)
-  - Skills exercise: [Getting Started with GitHub Copilot](https://github.com/skills/getting-started-with-github-copilot)
+  - Skills exercise: [Getting Started with GitHub Copilot](https://github.com/nosportugal/flai-workshop-github-copilot-100)
 
 - **How long**: This exercise takes less than one hour to complete.
 
