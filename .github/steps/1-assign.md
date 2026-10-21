@@ -1,6 +1,6 @@
 ## Step 1: Enable Copilot cloud agent
 
-In the [Getting Started with GitHub Copilot](/skills/getting-started-with-github-copilot) exercise, we learned how to use Copilot in our code editor to make major upgrades to the Mergington Extracurricular Activities site. 🎻 ⚽️ ♟️
+In the [Getting Started with GitHub Copilot](https://github.com/nosportugal/flai-workshop-github-copilot-100) exercise, we learned how to use Copilot in our code editor to make major upgrades to the Mergington Extracurricular Activities site. 🎻 ⚽️ ♟️
 
 In fact, the site has become a regular school tool now. And, although you like that attention, you just realized a problem! You are about to go on sabbatical next semester!
 
